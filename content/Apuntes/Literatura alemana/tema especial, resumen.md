@@ -1,11 +1,12 @@
-*Quiero hablar de Sin novedad en el frente en el contexto del Nuevo Objetivismo alemán, o Neue Sachlichkeit.*
-*[[Llinares (2012). «La experiencia del combatiente en Sin novedad en el frente (1929) de Erich María Remarque.|Llinares (2012)]] señala un quiebre en la literatura sobre la primera guerra: los textos publicados durante o inmediatamente después del conflicto por un lado, y los publicados a partir de 1928, «en las cuales ya es manifiesta la elaboración del duelo sobre lo experimentado».* 
-*Y sobre esto, quiero establecer un paralelismo con el cine.*
-*Previo al 1930, hay una veintena de películas estadounidenses que sobreviven al día de hoy cuyo argumento trata sobre la primera guerra mundial. El cine europeo, por el contrario, produjo mucho menos, y la primer película alemana al respecto fue Westfront 1918 (neunzehn achtzehn), de 1930. Entre la revolución alemana y 1930, por el contrario, aparecieron los grandes hitos del cine expresionista alemán: El gabinete del doctor Caligari, El gólem y Nosferatu.*
+Quiero hablar de *Sin novedad en el frente* en el contexto del Nuevo Objetivismo alemán, o *Neue Sachlichkeit*.
+[[Llinares (2012). «La experiencia del combatiente en Sin novedad en el frente (1929) de Erich María Remarque.|Llinares (2012)]] señala un quiebre en la literatura sobre la primera guerra: los textos publicados durante o inmediatamente después del conflicto por un lado, y los publicados a partir de 1928, «en las cuales ya es manifiesta la elaboración del duelo sobre lo experimentado». 
+Y sobre esto, quiero establecer un paralelismo con el cine.
+Previo al 1930, hay una veintena de películas estadounidenses que sobreviven al día de hoy cuyo argumento trata sobre la primera guerra mundial. El cine europeo, por el contrario, produjo mucho menos, y la primer película alemana al respecto fue _Westfront 1918 (neunzehn achtzehn)_, de 1930. Entre la revolución alemana y 1930, por el contrario, aparecieron los grandes hitos del cine expresionista alemán: *El gabinete del doctor Caligari*, *El gólem* y *Nosferatu*. 
 
-*En las novelas de la neue Sachlichkeit, hay una insistencia sobre la experiencia trascendental (o, mejor dicho, lo que subjetivamente se percibe como trascendental) que es anulado por las condiciones materiales de la realidad. Tanto en SNL como en La chica de seda artificial como en Las dos amigas y el envenenamiento hay una anulación permanente de la subjetividad por la realidad objetiva.* 
+En las novelas de la _neue Sachlichkeit_, hay una insistencia sobre la experiencia trascendental (o, mejor dicho, lo que subjetivamente se percibe como trascendental) que es anulado por las condiciones materiales de la realidad. Tanto en _SNL_ como en _La chica de seda artificial_ como en _Las dos amigas y el envenenamiento_ hay una anulación permanente de la subjetividad por la realidad objetiva. 
 
-*[[Wamba. La nueva objetividad como respuesta al pos-expresionismo.|Wamba]] señala el término Zeitroman.*
+Wamba señala el término *Zeitroman*. 
+
 # Introducción
 Hoy voy a hablar de *Im Westen nichts Neues*, la novela de 1928 de Erich Maria Remarque, que ha sido traducida al español con el título *Sin novedad en el frente*; y voy a analizar esta novela en el marco de la *Neue Sachlichkeit* o Nueva Objetividad, su contexto y sus categorías. 
 Para preparar este tema, me basé en dos trabajos complementarios y que voy a estar citando, que son:
