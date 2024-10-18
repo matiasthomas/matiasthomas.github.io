@@ -46,12 +46,13 @@ El cambio lingüístico por contacto se produce en dos tipos: **el ==préstamo==
 * préstamo: adopción abierta y directa de una categoría ajena; mayor grado de conciencia. [[(Muysken 1979)]]
 * reestructuración: reinterpretación de categorías propias; abandono parcial del sistema propio; menos grado de conciencia. 
 
-$\quad$El préstamo es más propio de la lengua _socialmente inferior_, porque el abandono del sistema original se considera deseable para acceder a «lo prestigioso», y por eso es más consciente; por el contrario, en las lenguas _socialmente superiores_ aparecen reestructuraciones «indirectamente atribuibles a una lengua socialmente inferior». 
+El préstamo es más propio de la lengua _socialmente inferior_, porque el abandono del sistema original se considera deseable para acceder a «lo prestigioso», y por eso es más consciente; por el contrario, en las lenguas _socialmente superiores_ aparecen reestructuraciones «indirectamente atribuibles a una lengua socialmente inferior». 
 
 Tres presupuestos: 
 * toda _langue_ (lengua) es el resultado cumulativo de innumerables actos de _parole_ (habla);
 * la primera etapa de todo cambio lingüístico la constituyen los actos de habla individuales;
 * ==la frecuencia de uso de alternativas distintas puede contribuir a la revalorización de una alternativa==. 
+
 Ejemplo de esto: los valores gramaticales de una lengua (como el quechua) pueden infiltrarse en otra (como el español), «si la frecuencia con que se emplean las formas de la segunda en efecto responde a normas propias de la primera». 
 
 ==Las infiltraciones, **por definición**, son irreconocibles en cada acto de habla en particular==. (ver [[Labov]] 1963, [[Trudgill 1983]]:61) Por esto, la variación en el uso, que es «la matriz» del cambio, es el campo de estudio propuesto.
@@ -68,13 +69,17 @@ Esa particularidad en el sustrato podría llevar a usos diferenciados en el espa
 # 2. El análisis de las formas _le_ / _lo-la_
 
 ¿Cuál es la diferencia entre el acusativo y el dativo? Ambos están opuestos al sujeto (el nominativo), pero esa oposición debe ser esencialmente distinta. 
+
 La propuesta de García: **el dativo señalaría una independencia mayor del referente respecto al sujeto, mientras que el acusativo marca «la total dependencia».** 
+
 También puede proponerse una comparación en el grado de actividad: «si el objeto difiere mucho en actividad respecto del sujeto, esperamos _lo_; si poco, _le_.
+
 **Conclusión: un objeto con autonomía relativamente grande favorece el uso de *le*; un objeto pasivo favorece el recurso a *lo***. 
 
 # 3. Validación del análisis
 
 En la mayoría de los casos en español, uno solo de los pronombres es permitido de acuerdo a la selección que realiza el verbo. La excepción es la construcción de **acusativo con infinitivo** (hacer + inf.)
+
 A partir de esta construcción, la selección de «le», «lo» y «la» puede deberse a diversos parámetros que pueden ser estudiados: 
 1) _Número de participantes_
 2) _Índole del objeto_ (animado o inanimado)

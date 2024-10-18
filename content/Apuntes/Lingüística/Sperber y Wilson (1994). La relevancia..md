@@ -42,13 +42,18 @@ El modelo de código falla al intentar encontrar reglas generalizadas que deduzc
 | _mensaje > señal > mensaje_   | _premisas > conclusiones_ |
 ### Enunciado, contexto y capacidades
 El conjunto de premisas o _supuestos_ tras un enunciado es su **contexto**. El contexto contempla la ideología, el entendimiento y la memoria. 
+
 La gramática y las aptitudes para el proceso inferencial son **capacidades fijas** desde la infancia; por el contrario, _el contexto cambia con la experiencia_.
+
 **El contexto plantea un nuevo problema: la existencia de un contexto _real_ y un contexto _previsto_.** Los mecanismos comunicativos no garantizan el éxito de la comunicación (pero tampoco son un sistema perfecto mal aplicado)
 
 ### Conocimiento común/mutuo
 **Ambos hablantes saben que la otra persona comparte cierta información y, al mismo tiempo, que entiende que ese conocimiento es mutuo.** Sin embargo, esto se puede ver siempre como una incertidumbre. EL esfuerzo explícito por evidenciar estos conocimientos es la excepción. No hay indicios que demuestren que se realice un esfuerzo por asegurar el conocimiento mutuo.
+
 Asimismo, la posible diferencia en perspectiva o experiencia hace toda «suposición de suposiciones» inútil: «el individuo se equivocaría al dar por supuesto el conocimiento mutuo». 
+
 El problema del conocimiento mutuo es que plantea un hecho determinado: los hablantes deben saber de este conocimiento algo que en la práctica jamás se da. 
+
 La hipótesis del conocimiento mutuo establece el grupo de contextos potencialmente utilizables, pero no explica cómo se da esa selección. Mientras desconozcamos este proceso, no tiene sentido adoptar la hipótesis. No hay pruebas de que los hablantes distingan los conocimientos que son mutuos. 
 
 # Capítulo 3. La relevancia.
@@ -64,4 +69,5 @@ Un nuevo supuesto que entra en el discurso es **irrelevante** cuando carece de e
 1) el supuesto aporta nueva información pero esa información no tiene conexión con la información ya presente en el contexto;
 2) el supuesto ya está presente en el contexto;
 3) el supuesto es incoherente con el contexto.
+
 Cuando cualquiera de estas tres situaciones ocurre, la fuerza del enunciado es demasiado débil para producir cualquier tipo de cambio en el contexto: en otras palabras, carece de efecto contextual. e

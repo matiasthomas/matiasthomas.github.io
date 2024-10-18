@@ -25,6 +25,7 @@ Método del discurso: analiza la lengua en uso.
 No se puede disociar la lengua de su uso, como tampoco captar fenómenos dinámicos con categorías estáticas. 
 
 La inferencia es una integración progresiva de formas y contexto. Siempre se percibe el mensaje más sencillo inferencialmente.
+
 La gramaticalidad NO es un atributo de mera forma. Los hablantes juzgan la forma de la expresión en función del contexto donde esa expresión cumple una función comunicativa relevante. **En un contexto, una expresión cumple una función comunicativa relevante.**
 
 # Respuestas al TP de este trabajo: 

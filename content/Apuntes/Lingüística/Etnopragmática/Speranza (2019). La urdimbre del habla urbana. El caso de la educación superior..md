@@ -18,6 +18,7 @@ Pratt (1989): «La distancia entre _langue_ y _parole_, entre competencia y actu
 ## 5.1. Los ingresantes a la UNM 2016: caracterización general
 ### _5.1.1. Los astistentes al Taller de Lectoescritura_
 Paradójicamente el contacto con la lengua de origen es menos estable en la relación con los progenitores (ya que los padres buscan favorecer la lengua de recepción, y evitan la transmisión de la de origen), y más estable en «situaciones de intercambio que involucran a miembros de las redes de migrantes» (amigos o vecinos, por ejemplo). 
+
 La población que mayor grado de bilingüismo manifiesta son los hablantes de guaraní (54%), mientras que los hablantes de quechua reportan apenas un 29%. 
 # 6. Conclusiones
 «Los resultados nos han permitido verificar la composición heterogénea de los grupos sociales con los que estamos trabajando». El artículo tiene un interés social: busca evitar el fracaso en la trayectoria educativa de nivel superior. 

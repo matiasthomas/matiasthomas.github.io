@@ -13,12 +13,17 @@ A la experiencia del soldado en **el frente** se le contraponen **otras cuatro e
 - **las visitas al hospital.**
 
 Al mismo tiempo, hay un momento previo, el del **alistamiento**.
+
 «La ausencia de mujeres es otro rasgo estructural de la vida de los soldados en tiempos de guerra. De ahí la sexualidad intermitente y acentuada que viven.» (Capítulo VII)
 # 3. Rasgos cruciales de la experiencia del frente.
 «El combatiente vive una especie de maraña, de fragmentación y desconcierto»; ==«si se desea ser fiel a la experiencia vivida, difusa, confusa y parcial, la narración de lo experimentado ha de ser también fragmentaria, quebrada, puntual, ha de estar atomizada»==.
+
 «**La guerra a partir de Waterloo es una *epopeya imposible***.»
+
 «con su **sobria autenticidad** ^[cf. [[Wamba. La nueva objetividad como respuesta al pos-expresionismo.]]] SNF acentúa la *incertidumbre* de los combatientes por el imperio del *azar* que reina en el frente»
+
 Hay una experiencia compartida del frente: el dolor por los animales heridos, como una prueba de la futilidad de la destrucción ocasionada. 
+
 «_La guerra es también un gigantesco espectáculo estético_», que obliga al superviviente a expresarse en términos plásticos para dar testimonio. Ver cap IV: «qué hermosos fuegos artificiales, si no fueran tan peligrosos…»
 
 # 4. La vida oscilante de las imágenes del recuerdo.
@@ -38,6 +43,7 @@ La única vivencia positiva en la guerra es la solidaridad entre camaradas. «Lo
 # 5. Enseñanzas de las experiencias radicales de la alteridad. 
 (Acá Llinares define su trabajo como una «rápida enumeración de rasgos antropológicos»)
 Una vivencia más: **el prisionero de guerra** (véase cap VIII)
+
 Cap IX: experiencia cercana con el soldado francés. En la personalización del francés está el autorreconocimiento. «Para que ese recuerdo traumático no sea un espejismo efímero se requiere un prolongado trabajo de reflexión, una minuciosa rememoración y un análisis crítico de todo lo vivido en el frente…»
 
 > [!note]- Comentario
