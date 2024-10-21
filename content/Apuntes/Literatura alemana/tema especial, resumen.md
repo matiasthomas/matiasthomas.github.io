@@ -1,3 +1,6 @@
+---
+date: 2024-10-04
+---
 *(Quiero hablar de *Sin novedad en el frente* en el contexto del Nuevo Objetivismo alemán, o *Neue Sachlichkeit*.*
 *[[Llinares (2012). «La experiencia del combatiente en Sin novedad en el frente (1929) de Erich María Remarque.|Llinares (2012)]] señala un quiebre en la literatura sobre la primera guerra: los textos publicados durante o inmediatamente después del conflicto por un lado, y los publicados a partir de 1928, «en las cuales ya es manifiesta la elaboración del duelo sobre lo experimentado».* 
 
