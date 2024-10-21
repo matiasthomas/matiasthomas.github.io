@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 [[Barthes]] [[ideología]]
 ## Los romanos en el cine 
 

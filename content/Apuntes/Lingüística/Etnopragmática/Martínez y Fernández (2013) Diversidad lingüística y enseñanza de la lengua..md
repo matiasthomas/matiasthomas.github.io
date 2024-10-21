@@ -1,5 +1,8 @@
-#digitalizado #cuadernonegro
-
+---
+date: 2024-06-01
+tags:
+  - digitalizado
+---
 A los profesores se les impone ser «agentes culturales».
 2. Las variedades en uso son juzgadas en la sociedad a partir de una idea arbitraria de «corrección», lo cual lleva, a través del rechazo, a altos niveles de deserción escolar en los hablantes de lenguas minoritarias.
 

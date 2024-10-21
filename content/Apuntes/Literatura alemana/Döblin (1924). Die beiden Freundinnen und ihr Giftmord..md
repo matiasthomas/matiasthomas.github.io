@@ -1,3 +1,6 @@
+---
+date: 2024-08-01
+---
 **E. L. / Elli**: protagonista.
 **Link**: primer interés amoroso. Carpintero. Comunista. Se casan a fines de 1920 y se mudan a Berlín.
 

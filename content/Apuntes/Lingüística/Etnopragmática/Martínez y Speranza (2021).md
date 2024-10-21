@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 http://www.mundoalfal.org/sites/default/files/revista/13_2_cuaderno_006.pdf
 # La argumentación contrafáctica en un corpus de discurso jurídico. Formas, significados y mensajes.
 

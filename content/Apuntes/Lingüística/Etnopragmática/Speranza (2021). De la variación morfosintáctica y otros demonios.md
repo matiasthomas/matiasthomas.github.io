@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 ## La alternancia del imperfecto del subjuntivo en el español de América desde una aproximación diacrónica.
 
 En: [Palacios y Sánchez Paraíso (eds., 2021). _Dinámicas lingüísticas de las situaciones de contacto_](https://www.degruyter.com/document/doi/10.1515/9783110701364/html)

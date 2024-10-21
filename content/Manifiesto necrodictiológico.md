@@ -1,3 +1,6 @@
+---
+date: 2024-10-18
+---
 **[δίκτῡον](https://www.perseus.tufts.edu/hopper/morph?l=di%2Fktu%5Eon&la=greek&can=di%2Fktu%5Eon0)** , τό, (δικεῖν): *red (de pesca o de caza)*
 
 Evidentemente, el internet está moribundo, y estamos viendo sus últimas convulsiones, escuchando sus estertores finales… o bien ha muerto hace tiempo, y lo que confundimos por el movimiento de un vivo es en realidad el espasmo interminable de un cadáver que habla y se agita por los gases de la putrefacción. 
@@ -18,4 +21,4 @@ Como no podemos retirar este tejido, y no podemos tampoco eliminar estos espacio
 
 Si el bombardeo constante de Twitter, con sus opiniones cada vez monopolizadas, monolíticas, agresivas y enfermizas, nos hace más mal que bien al entrar, ¿por qué no abandonar Twitter? Si Facebook ha sido desnudado de cualquier cosa remotamente similar a contenido social, mientras que abunda en propaganda, contenido generado por inteligencias artificiales y *fake news*, ¿por qué no abandonar Facebook? 
 
-Y frente a las redes sociales, ya putrefactas, la vuelta al pasado: los invito a reivindicar, reocupar y defender los géneros del *blog*, del *mail* y del *SMS*. Pues todo esto es la verdadera web libre: la red de individuos que quieren hablar, y también de la experiencia colectiva. Y si algún día también nos quitan esto, entonces también podremos abandonarlo. 
+Y frente a las redes sociales, ya putrefactas, la vuelta al pasado: los invito a reivindicar, reocupar y defender los géneros del *blog*, del *mail*, del foro, del *feed* RSS y del *SMS*. Pues todo esto es la verdadera web libre: la red de individuos que quieren hablar, y también de la experiencia colectiva. Y si algún día también nos quitan esto, entonces también podremos abandonarlo. 

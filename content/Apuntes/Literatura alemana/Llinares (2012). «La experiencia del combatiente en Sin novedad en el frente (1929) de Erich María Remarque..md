@@ -1,3 +1,6 @@
+---
+date: 2024-10-01
+---
 # 1. Una notable ==obra en mosaico== sobre la Gran Guerra.
 
 *SNF* debe ser considerado un texto de referencia sobre la experiencia bélica: la vivencia narrada fue ampliamente considerada auténtica tanto dentro como fuera de Alemania.

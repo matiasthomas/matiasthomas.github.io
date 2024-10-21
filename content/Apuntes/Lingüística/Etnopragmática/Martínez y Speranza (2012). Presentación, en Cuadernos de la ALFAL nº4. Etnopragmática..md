@@ -1,5 +1,8 @@
-#digitalizado #cuadernonegro #veintiuno 
-
+---
+date: 2021-06-01
+tags:
+  - digitalizado
+---
 La [[Etnopragmática]] parte de la [[Escuela de Columbia]]: las elecciones lingüísticas están motivadas semántica y pragmáticamente, no son aleatorias. La gramática (y lo gramatical) no es arbitraria ni fuente de la comunicación, _sino un subproducto de ésta_. La gravedad es un _epifenómeno_.
 La etnopragmática busca explicar estrategias lingüísticas como rasgos culturales manifiestos en el uso de la lengua. 
 

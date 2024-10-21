@@ -1,3 +1,8 @@
+---
+date: 2024-06-04
+---
+_(Tomado de [[Examen reválida lingüística]])_
+
 11) A partir de la lectura del texto de Martínez – Metodología – responda las consignas que aparecen a continuación:
 
 - ¿Cómo se define la Etnopragmática como disciplina?

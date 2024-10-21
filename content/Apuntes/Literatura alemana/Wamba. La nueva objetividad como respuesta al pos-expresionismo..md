@@ -1,3 +1,6 @@
+---
+date: 2024-10-01
+---
 # Nueva Objetividad en la pintura
 Primer ejemplo de nueva objetividad: _An die Schönheit_ (1922), Otto Dix. El personaje central tiene un teléfono en la mano.
 

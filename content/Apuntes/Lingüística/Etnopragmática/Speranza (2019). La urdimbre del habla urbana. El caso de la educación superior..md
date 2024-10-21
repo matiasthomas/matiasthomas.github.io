@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 En: _Forma y función_, 32(2).
 
 Palabras clave: [[contacto lingüístico]], [[comunidad lingüística]], [[variedades del español]], [[sociolingüística]], [[etnografía]].

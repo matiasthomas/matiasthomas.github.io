@@ -1,3 +1,10 @@
+---
+date: 2021-12-11
+---
+
+> [!success] Comentario de la JTP:
+> 10 (diez). Destaco especialmente la precisión categorial y la atención en los datos de las fuentes/ediciones. La consigna 3 sorprende por la lectura fina y cercana del relato a la luz de los conceptos teóricos.
+
 a- Establezca nexos entre la contraposición “Símbolo/ “técnica de alusión” de [[Barthes]] y “símbolo”/ “quiebre de la expresión” de [[Adorno]]. Recuperar el estado de la cuestión en torno a estos problemas.
 
 b-  Reconstruir y vincular los modos de leer a [[Kafka]] que llevan a cabo [[Blanchot]] y [[Derrida]]. ¿Qué nexos se pueden establecer entre las categorías de _différance_ y _neutro_ con respecto al sentido del texto y a la lectura?

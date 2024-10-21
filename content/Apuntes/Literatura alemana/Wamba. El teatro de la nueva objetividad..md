@@ -1,3 +1,6 @@
+---
+date: 2024-10-01
+---
 Siglo XX: el nuevo drama busca romper con las categorías estéticas de la *Poética* de Aristóteles. ==«El planteo del teatro moderno consiste en evitar todo aquello que limite la responsabilidad concreta del espectador»==.
 
 **Teatro épico / no-aristotélico** ←→ teatro tradicional (Brecht)

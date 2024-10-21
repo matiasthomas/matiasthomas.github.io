@@ -1,3 +1,6 @@
+---
+date: 2024-05-24
+---
 Tema 3
 
 > [!tldr] Criterios de evaluación:

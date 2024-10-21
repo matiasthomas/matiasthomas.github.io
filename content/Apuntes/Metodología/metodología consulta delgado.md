@@ -1,4 +1,7 @@
-  
+---
+date: 2024-08-20
+---
+
 Williams está visto en el contexto de la discontinuidad, el eje del programa. ¿Cuál es la dimensión metodológica, cuáles son los objetos de la propuesta williamsiana? ¿Por qué es relevante para nuestro enfoque? 
 
 El interés es más Williams como lector de literatura que los textos individuales: la relación que encuentra entre literatura y sociedad, cuáles son los recortes que utiliza, cuáles son las categorías básicas que encuentra; cómo pensar las novelas particulares de _Pride and Prejudice_ y _Wuthering Heights_ desde una perspectiva williamsiana; es decir, cuál es la relación entre forma estética y sociedad de acuerdo a los (relación paradójica entre los sentimientos expresados y las formas de expresarlos)
