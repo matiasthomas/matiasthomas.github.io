@@ -1,4 +1,4 @@
-**[δίκτῡον](https://www.perseus.tufts.edu/hopper/morph?l=di%2Fktu%5Eon&la=greek&can=di%2Fktu%5Eon0)** , [τό](https://www.perseus.tufts.edu/hopper/morph?l=to%2F&la=greek&can=to%2F0&prior=di/ktu^on), ([δικεῖν](https://www.perseus.tufts.edu/hopper/morph?l=dikei%3Dn&la=greek&can=dikei%3Dn0&prior=to/)): *net*
+**[δίκτῡον](https://www.perseus.tufts.edu/hopper/morph?l=di%2Fktu%5Eon&la=greek&can=di%2Fktu%5Eon0)** , τό, (δικεῖν): *red (de pesca o de caza)*
 
 Evidentemente, el internet está moribundo, y estamos viendo sus últimas convulsiones, escuchando sus estertores finales… o bien ha muerto hace tiempo, y lo que confundimos por el movimiento de un vivo es en realidad el espasmo interminable de un cadáver que habla y se agita por los gases de la putrefacción. 
 
