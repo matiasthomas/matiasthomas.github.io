@@ -1,3 +1,10 @@
+---
+date: 2019-04-15
+tags:
+  - hexámetro
+---
+
+
 ¿Debo tener estas luces impresas así en mis retinas?
 ¿Qué ha de quedar en mi alma acosada por tales visiones?
 Llora por ellas, mas ya lloraría de no haberlas visto:
@@ -22,5 +29,3 @@ quienes osaron bailar sobre el cuerpo de la Humanidad.
 
 
 _Pirro_
-
-#hexámetro #diecinueve 

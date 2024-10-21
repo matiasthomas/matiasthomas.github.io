@@ -1,4 +1,8 @@
-#digitalizado #cuadernonegro #diecinueve
+---
+date: 2019-12-01
+tags:
+  - digitalizado
+---
 # Capítulo 1. La comunicación.
 La comunicación implica la existencia de dos dispositivos de procesamiento de la información: uno modifica el entorno físico del otro. 
 * **pensamiento**: *representación contextual*

@@ -1,4 +1,8 @@
-#digitalizado #cuadernonegro 
+---
+date: 2019-12-01
+tags:
+  - digitalizado
+---
 # Capítulo I
 
 **[[sociolingüística]]**: ==ciencia interdisciplinar que se ocupa de las relaciones existentes entre el lenguaje y la sociedad.== Es una rama de la lingüística que mira el lenguaje como fenómeno social y cultural, estudiándolo en situaciones empíricas y contexto social. (1.1)

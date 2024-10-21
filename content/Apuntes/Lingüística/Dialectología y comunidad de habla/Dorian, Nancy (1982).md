@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 > [!NOTE]- Resumen de ChatGPT:
 > In her 1982 essay "Defining the Speech Community to Include its Working Margins," Nancy Dorian examines the concept of a speech community through the lens of the Gaelic-speaking fisherfolk descendants in East Sutherland, Scotland. She explores how traditional definitions of speech communities, which emphasize regular and fluent use of a shared language, fail to accommodate individuals with varying degrees of language proficiency. Specifically, she distinguishes between low-proficiency "semi-speakers" and "near-passive bilinguals."
 Low-proficiency semi-speakers can construct intelligible sentences in Gaelic, albeit with grammatical deviations and limited fluency. Near-passive bilinguals, on the other hand, understand a substantial amount of Gaelic but can only produce short phrases or single words. Despite their limited active use of Gaelic, these individuals are deeply integrated into the sociolinguistic norms of the community and participate effectively in conversations.

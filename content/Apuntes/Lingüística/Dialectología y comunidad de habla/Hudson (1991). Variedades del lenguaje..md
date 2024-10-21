@@ -1,5 +1,8 @@
-#digitalizado #cuadernonegro 
-
+---
+date: 2024-06-01
+tags:
+  - digitalizado
+---
 El lenguaje está basado en unidades mínimas llamadas elementos lingüísticos (_linguistic items_). En la distribución desigual de uso de estos elementos se da la variación según la [[sociolingüística]]. (2.1.2)
 
 Una variedad del lenguaje (*variety of language*) es una manifestación del lenguaje diferenciada por los elementos lingüísticos que incluye; en otras palabras, es un conjunto de elementos lingüísticos de similar distribución social. Esto incluye lenguas, [[dialecto|dialectos]] y [[registro|registros]], sin distinciones internas _(¿pero una variación puede contemplar **multiples lenguas**?_)

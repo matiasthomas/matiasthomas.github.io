@@ -1,3 +1,6 @@
+---
+date: 2007-01-01
+---
 (En: _Lingüística_ 2019. #textocompleto)
 
 > [!NOTE]- Resumen de ChatGPT

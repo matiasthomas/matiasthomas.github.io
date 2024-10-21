@@ -1,5 +1,8 @@
-#cuadernonegro #digitalizado #veinticuatro
-
+---
+date: 2024-01-01
+tags:
+  - digitalizado
+---
 # Capítulo 1: Lengua y dialecto. 
  
 ```mermaid

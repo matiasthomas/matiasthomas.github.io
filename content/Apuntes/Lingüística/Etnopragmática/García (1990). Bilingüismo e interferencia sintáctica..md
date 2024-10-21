@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 
 > [!NOTE]- Resumen de ChatGPT
 > **Introducción:** El contacto entre lenguas puede provocar modificaciones lingüísticas, influenciadas por el contexto social. Las lenguas socialmente inferiores tienden a adoptar préstamos de lenguas prestigiosas de manera consciente, mientras que las lenguas superiores pueden experimentar reestructuraciones sutiles e inconscientes debido a la influencia de lenguas subordinadas.

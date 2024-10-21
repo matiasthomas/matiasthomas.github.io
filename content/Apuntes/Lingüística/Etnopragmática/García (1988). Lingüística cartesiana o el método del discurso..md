@@ -1,5 +1,8 @@
-#digitalizado #cuadernonegro #veintiuno
-
+---
+date: 2021-01-01
+tags:
+  - digitalizado
+---
 Lingüística cartesiana = paradigma formalista y generativismo.
 
 La [[gramaticalidad]] es axiomática; la gramática deriva de la gramaticalidad. La sintaxis se disocia del uso, convirtiendo la lengua formal en una natural. 

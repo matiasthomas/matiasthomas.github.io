@@ -5,7 +5,6 @@ tags:
   - examen
 ---
 
-
 __Escribir una reseña crítica de 2 a 3 páginas sobre _La señorita Elsa_. Elaborar una lectura crítica personal (un texto de opinión) sobre la obra en cuestión, utilizando la primera persona. El texto debe dar cuenta de la lectura atenta de la obra e incluir las impresiones personales sobre la misma. Pueden desarrollar una hipótesis o simplemente comentar la experiencia de lectura.__
 
 Durante la lectura de *La señorita Elsa*, *nouvelle* de 1926 por el autor vienés Arthur Schnitzler, rápidamente aparece el exhibicionismo como motivo fundamental de la trama. En un texto de apenas ochenta páginas, el adjetivo «desnudo» (*nackt*) aparecerá treinta y tres veces; la desnudez propia y del otro será un motor de la trama y la obsesión de sus personajes, que desearán ver y ser vistos, *admirar* y ser *admirados*. Pero, a su vez, de este tópico surge una pregunta central para la lectura: ¿cuál es *exactamente* la relación de Elsa T., la protagonista y narradora, con el exhibicionismo? ¿Por qué, a medida que avanza la obra, su postura oscilará entre el deseo y el rechazo más extremos?

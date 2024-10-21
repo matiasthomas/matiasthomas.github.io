@@ -1,5 +1,8 @@
-#digitalizado #cuadernonegro 
-
+---
+date: 2024-06-01
+tags:
+  - digitalizado
+---
 La lengua se caracteriza por **desequilibrios cuantitativos** que marcan todo input en el aprendizaje. Quienes aprenden una lengua ¿atribuyen distintos valores a formas en variación al reconocerlas en diferencia cuantitativa?
 
 ==La variación es un tipo de **desequilibrio cuantitativo relativo** donde recursos lingüísticos distintos presentan frecuencias relativas desiguales para diversos fines.==

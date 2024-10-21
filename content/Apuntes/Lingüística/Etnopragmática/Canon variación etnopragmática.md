@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 Principales:
 * [[García (1990). Bilingüismo e interferencia sintáctica.|García (1990). «Bilingüismo e interferencia sintáctica»]]
 * [[García (1998). Qué cuenta y cómo contar en lingüística.|García (1998). «Qué cuenta, y cómo contar en lingüística»]]

@@ -1,3 +1,6 @@
+---
+date: 2024-06-01
+---
 _Escrito en 1939, reimpreso en_ Language, culture, and personality, essays in memory of Edward Sapir, _en 1941._
 
 Edward Sapir: «los seres humanos no viven en el mundo objetivo solos, ni en el mundo de la actividad social (…), pero están realmente a merced de una lengua particular que se ha vuelto el medio de expresión de su sociedad. Es una ilusión imaginar que uno se ajusta a la realidad sin el uso del lenguaje (…). El hecho es que el «mundo real» está construido en gran medida sobre los hábitos lingüísticos del grupo.

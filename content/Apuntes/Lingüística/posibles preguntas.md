@@ -1,3 +1,6 @@
+---
+date: 2024-07-29
+---
 Un listado de preguntas posibles a responder con ejemplos apropiados
 
 1) ¿Qué es la lengua?

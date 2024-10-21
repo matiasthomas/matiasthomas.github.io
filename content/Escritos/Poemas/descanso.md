@@ -1,3 +1,9 @@
+---
+date: 2023-11-09
+tags:
+  - versolibre
+---
+
 Eterno descanso, que te pienso tanto,
 volviste a atormentarme, mis miedos mediante,
 promesa absoluta de tierra y más tierra 
@@ -11,5 +17,3 @@ un oasis de vacío en un desierto de lo Real,
 Destino, objetivo, resultado, tierra y más tierra.
 
 Y un desierto voluble, apretando un botón.
-
-#versolibre

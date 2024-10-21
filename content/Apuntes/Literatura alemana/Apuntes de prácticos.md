@@ -1,3 +1,7 @@
+---
+date: 2024-06-27
+---
+
 # Práctico 2/5
 ## Gas II: posibles lineamientos para el parcial
 - silencio

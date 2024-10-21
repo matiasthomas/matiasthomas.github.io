@@ -1,3 +1,6 @@
+---
+date: 2024-06-04
+---
 # Actividades:
 
 1- Definir las nociones de homonimia, sinonimia y polisemia de acuerdo con la propuesta de Lyons.
