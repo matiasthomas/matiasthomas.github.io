@@ -12,8 +12,8 @@ _Nota: los apuntes pre-2024 no fueron escritos con su publicación en mente, as�
 - [[Apuntes/Lingüística|Lingüística (2024)]]
 - [[Apuntes/Literatura alemana|Literatura alemana (2024)]]
 ## Carpetas a subir:
-- Literatura argentina I (2019)
-- Literatura argentina II (2019)
+- [[Apuntes/Literatura argentina I|Literatura argentina I (2019)]] *(en proceso)*
+- [[Apuntes/Literatura argentina II|Literatura argentina II (2019)]] *(en proceso)*
 ## Actualmente preparando:
 - [[Apuntes/Metodología|Metodología de la investigación literaria (2021)]]
-- Teoría de la crítica (2021)
+- [[Apuntes/Teoría de la crítica|Teoría de la crítica (2021)]]
