@@ -1,3 +1,9 @@
+---
+date: 2022-11-01
+tags:
+  - programa
+  - digitalizado
+---
 # Unidad 1: gauchesca
 - Hidalgo
 	- *Cielitos* (1818-1822)
