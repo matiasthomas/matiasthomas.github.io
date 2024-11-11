@@ -1,5 +1,3 @@
-
-# Depresión y capitalismo. Fragmento.
 _(escrito originalmente en agosto de 2023)_
 
 La depresión es una enfermedad intrínsecamente anticapitalista por su cualidad antiproductiva. En sistemas económicos anteriores, quizás el depresivo haya podido contribuir con su labor mucho más fácilmente; en la Edad Media, donde se trabajaba sólo en días de siembra y cosecha (en torno a un calendario agrícola), es incluso difícil imaginar la depresión. Como a Sísifo, uno debe imaginar al campesino medieval feliz en su medio, no solo por el esfuerzo indudablemente menor en comparación con el trabajo asalariado, pero también por su naturaleza fija, indiscutible. El campesino llegaba al mundo para trabajar el campo; el fruto de su trabajo era evidente y se consumía socialmente. ¿No habría sido esto una fuente inacabable de motivación?  
