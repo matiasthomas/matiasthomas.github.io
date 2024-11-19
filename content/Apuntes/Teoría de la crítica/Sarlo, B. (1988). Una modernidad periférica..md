@@ -1,9 +1,13 @@
+---
+date: 2024-11-19
+---
+
 # Introducción
 _Schorske y Berman como salida a la moda epistemológica. Carácter personal de la obra._
 
 *Una modernidad periférica* está profundamente inspirado en los libros ***Fin-de-siècle Vienna*** (**Schorske**, 1979) y ***All that is solid melts into air*** (**Berman**, 1982); al mismo tiempo, la autora incorpora sus «obsesiones anteriores»: **Barthes**, **Williams** y **Benjamin**. 
 
-En un momento en el cual Sarlo personalmente se encuentra insatisfecha con el estado de la crítica, ==vuelve a dos obras que «se proponían la reconstrucción de un mundo de experiencias a través de los textos de la cultura».== Son dos obras que desacralizan la literatura, buscan la sociedad *desde* la literatura, y también leen los procedimientos literarios en libros no literarios: Berman lee el *Manifiesto comunista* como proclama de modernidad, y Schorske lee la *Interpretación de los sueños* en clave sociohistórica. Los dos autores ==«asaltan sus textos por donde menos se los piensa, **buscando la estética en Marx, la política en Freud.**»==
+En un momento en el cual Sarlo personalmente se encuentra insatisfecha con el estado de la crítica, ==vuelve a dos obras que «se proponían la reconstrucción de un mundo de experiencias a través de los textos de la cultura».== Son dos obras que desacralizan la literatura, buscan la sociedad *desde* la literatura, y también leen los procedimientos literarios en libros no literarios: Berman lee el *Manifiesto comunista* como proclama de modernidad, y Schorske lee la *Interpretación de los sueños* en clave sociohistórica. Los dos autores ==«asaltan sus textos por donde menos se los piensa, **buscando la estética en Marx, la política en Freud**».==
 
 El subtítulo del libro de Berman es «La experiencia de la modernidad»; a través del ensayo y el enfoque histórico, los dos autores indagan sobre **lo moderno**. Berman: **ser moderno es ante todo una experiencia**; la lectura del arte es ordenada por *la reconstrucción de una experiencia*. 
 

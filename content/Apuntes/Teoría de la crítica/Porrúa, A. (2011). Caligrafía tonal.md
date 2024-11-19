@@ -1,3 +1,7 @@
+---
+date: 2024-11-11
+---
+
 # Introducción
 Las preguntas ejes del libro son:
 1) ¿cómo se escribe en la poesía?, y

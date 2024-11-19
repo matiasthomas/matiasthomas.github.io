@@ -1,3 +1,6 @@
+---
+date: 2024-11-04
+---
 recomendación: preparar un tema especial.
 No olvidar que es una materia que tiene un enfoque teórico: lo importante son las hipótesis lectura y las operaciones que trazan los críticos
 

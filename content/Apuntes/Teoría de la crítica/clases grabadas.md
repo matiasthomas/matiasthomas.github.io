@@ -1,3 +1,6 @@
+---
+date: 2024-11-19
+---
 # Bosoer
 ## 2.9
 https://drive.google.com/drive/folders/1I54LlM9uRHSRS8TWkDHjCCttFEaKBPev?usp=sharing
