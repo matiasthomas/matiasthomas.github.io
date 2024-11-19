@@ -7,7 +7,7 @@ date: 2024-10-18
 Como las redes sociales están cada vez más saturadas y son menos aptas para compartir y socializar archivos (como hicimos durante tanto tiempo en foros, blogs y grupos de Facebook), elegí crear esta página para mostrar todo lo que escribo. Si te interesa esta filosofía, te invito a leer [[Manifiesto necrodictiológico|mi manifiesto]].
 
 # Mis apuntes
-_Nota: los apuntes pre-2024 no fueron escritos con su publicación en mente, así que puede haber algunos errores._
+_Nota: todos los apuntes previos a 2024 han sido digitalizados_
 ## Carpetas subidas:
 - [[Apuntes/Lingüística|Lingüística (2024)]]
 - [[Apuntes/Literatura alemana|Literatura alemana (2024)]]
