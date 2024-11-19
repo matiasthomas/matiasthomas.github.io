@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         {/* Texto estático agregado */}
-        <p>Este sitio no utiliza cookies, no rastrea tu actividad ni te espía.</p>
+        <p>Este sitio no utiliza cookies, ni rastrea tu actividad.</p>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
