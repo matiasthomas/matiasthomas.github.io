@@ -1,8 +1,12 @@
+---
+date: 2024-11-11
+---
+
 Hoy quiero recomendar una novela corta, una lectura breve que puede finalizarse en una hora, sin ser por eso menos impactante y memorable que libros veinte veces más largos.
 
 ![[Pasted image 20241111101943.png]]
 
-*Desarticulaciones* (2010) es una obra (aparentemente) semi-autobiográfica, donde la narradora S. Molloy cuenta en una sucesión inconexa de capítulos efímeros su relación con una amiga y ex-pareja, apodada solamente M. L., que transita las etapas más avanzadas del alzhéimer. 
+*Desarticulaciones* es una obra (aparentemente) semi-autobiográfica, donde la narradora S. Molloy cuenta en una sucesión inconexa de capítulos efímeros su relación con una amiga y ex-pareja, apodada solamente M. L., que transita las etapas más avanzadas del alzhéimer. 
 
 *Desarticulaciones* se inserta en un género relativamente nuevo y de popularidad creciente: el de las exploraciones subjetivas de la memoria en relación a las enfermedades neurodegenerativas. A esta clase pertenece el proyecto *Everywhere at the End of Time* (2016-2019), del músico James Leyland Kirby, serie de seis álbumes que impulsó largamente el interés popular en esta estética, y que no puedo de dejar de recomendar a quien no la conozca. También *Arrugas* (2008), novela gráfica del historietista Paco Roca, ampliamente galardonada y que algún día leeré. 
 

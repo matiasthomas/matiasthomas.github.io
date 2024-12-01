@@ -57,7 +57,7 @@ Juan Carlos miró el suelo, comenzó a sacarse los guantes y se acordó en silen
 
 Juan Carlos también recordaba su propia edad del porqué, cuando le había querido preguntar otras cosas a su papá. Pero no recordaba ninguna respuesta, porque cada vez que había exteriorizado sus dudas incómodas (¡aunque no hubiese sabido que eran incómodas!, ¡no hubiera podido saberlo!), el Tata había tenido la costumbre de fajarlo. Hacía años que Juan Carlos había aceptado que ese viejo hijo de puta no había sido un buen padre, y que él debía ser distinto con sus hijos. 
 
-Suspiró y se alejó de la mesa. se movió despacio hacia la mesada donde estaban las máquinas, buscando la chaira; en el mientras tanto, comenzó:
+Suspiró y se alejó de la mesa. Se movió despacio hacia la mesada donde estaban las máquinas, buscando la chaira; en el mientras tanto, comenzó:
 
 –Cuando vos eras muy chiquito, había muchos perros sin familia en la calle. Un día dejamos de recibir carne…– levantó unas bandejas algo sucias con sangre, pero no encontró el utensilio–. La gente no salía más a la calle, compraban menos, y no se hacían cargo de los perros. Y a nosotros no nos alcanzaba ni para los menudos, así que…
 
