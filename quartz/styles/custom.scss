@@ -29,3 +29,8 @@ article.popover-hint {
       text-indent: 0px;
 }
 }
+
+article p:has(> img) {
+  text-indent: 0 !important;
+}
+
