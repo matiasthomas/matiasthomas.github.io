@@ -1,36 +1,29 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-
-article {
-  p {
-  margin-bottom: 0;
-  margin-top: 0;
-  line-height: 2;
-}
-}
-
+// Estilos personalizados
 
 article.popover-hint {
   p {
-  text-indent: 32px;
-  text-align: justify;
-}
+    * {
+      text-indent: initial;
+      text-align: initial;
+    }
+    margin-bottom: 0;
+    margin-top: 0;
+    line-height: 2;
+    text-indent: 32px;
+    text-align: justify;
+  }
 
-    p:has(+ ul) {
-      margin-bottom: 2px;
-}
+  p:has(+ ul) {
+    margin-bottom: 2px;
+  }
 
-    blockquote > p {
-      text-indent: 0px;
-}
+  blockquote > p {
+    text-indent: 0px;
+  }
 
-    #search-button > p {
-      text-indent: 0px;
+  #search-button > p {
+    text-indent: 0px;
+  }
 }
-}
-
-article p:has(> img) {
-  text-indent: 0 !important;
-}
-

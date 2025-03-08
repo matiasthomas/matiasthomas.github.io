@@ -26,14 +26,14 @@ Dicho de otra forma: hasta hace unas décadas, todo humano había contado natura
 
 Es importante señalar acá que Newport diferencia *loneliness*, la soledad como emoción o sentimiento, de *solitude*, la separación objetiva de la conciencia. En sus palabras, define *solitude* como: 
 
-> [!quote] 
-> ==*A subjective state in which your mind is free from input from other minds.*== 
-> 
-> ==(Un estado subjetivo en el cual tu mente está libre de estímulos provenientes de otras mentes.)==
+> [!quote] Cito:
+> *A subjective state in which your mind is free from input from other minds.* 
 >  
+> ==(Un estado subjetivo en el cual tu mente está libre de estímulos provenientes de otras mentes.)==
+> 
 > *You can enjoy solitude in a crowded coffee shop, on a subway car. On the other hand, solitude can be banished in even the quietest setting if you allow input from other minds to intrude.* \[…] *==These inputs can also take the form of reading a book listening to a podcast, watching TV, or performing just about any activity that might draw your attention to a smartphone screen.== Solitude requires you to move past reacting to information created by other people and focus instead on your own thoughts and experiences—wherever you happen to be.*
->   
-> (Podés disfrutar de la soledad (*solitude*) en una cafetería repleta, en el subte. Por otro lado, la soledad puede desaparecer incluso en el entorno más silencioso si dejás que te importune el estímulo de otras mentes. \[…]  ==Estos estímulos **también pueden ser leer un libro, escuchar un podcast, mirar la tele**, o hacer cualquier cosa que lleve tu atención a la pantalla de tu teléfono==. La soledad requiere que evites reaccionar a la información creada por otra gente, y que te enfoques en tus propios pensamiento y experiencias, donde sea que te encuentres.) [^2]
+> 
+> (Podés disfrutar de la soledad (*solitude*) en una cafetería repleta, en el subte. Por otro lado, la soledad puede desaparecer incluso en el entorno más silencioso si dejás que te importune el estímulo de otras mentes. \[…]  ==Estos estímulos también pueden ser leer un libro, escuchar un podcast, mirar la tele, o hacer cualquier cosa que lleve tu atención a la pantalla de tu teléfono.== La soledad requiere que evites reaccionar a la información creada por otra gente, y que te enfoques en tus propios pensamiento y experiencias, donde sea que te encuentres.) [^2]
 
 # Estéticas del consumo masivo
 
