@@ -8,7 +8,6 @@ import {
   forceCenter,
   forceLink,
   forceCollide,
-  forceRadial,
   zoomIdentity,
   select,
   drag,
@@ -88,7 +87,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     removeTags,
     showTags,
     focusOnHover,
-    enableRadial,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
@@ -163,20 +161,15 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       })),
   }
 
-  const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 250)
-
   // we virtualize the simulation and use pixi to actually render it
-  // Calculate the radius of the container circle
-  const radius = Math.min(width, height) / 2 - 40 // 40px padding
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
     .force("charge", forceManyBody().strength(-100 * repelForce))
     .force("center", forceCenter().strength(centerForce))
     .force("link", forceLink(graphData.links).distance(linkDistance))
     .force("collide", forceCollide<NodeData>((n) => nodeRadius(n)).iterations(3))
 
-  if (enableRadial)
-    simulation.force("radial", forceRadial(radius * 0.8, width / 2, height / 2).strength(0.3))
+  const width = graph.offsetWidth
+  const height = Math.max(graph.offsetHeight, 250)
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -370,9 +363,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
   const stage = app.stage
   stage.interactive = false
 
-  const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
-  const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
-  const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
+  const labelsContainer = new Container<Text>({ zIndex: 3 })
+  const nodesContainer = new Container<Graphics>({ zIndex: 2 })
+  const linkContainer = new Container<Graphics>({ zIndex: 1 })
   stage.addChild(nodesContainer, labelsContainer, linkContainer)
 
   for (const n of graphData.nodes) {

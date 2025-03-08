@@ -11,6 +11,9 @@ export function extractDomainFromBaseUrl(baseUrl: string) {
 
 export const CNAME: QuartzEmitterPlugin = () => ({
   name: "CNAME",
+  getQuartzComponents() {
+    return []
+  },
   async getDependencyGraph(_ctx, _content, _resources) {
     return new DepGraph<FilePath>()
   },

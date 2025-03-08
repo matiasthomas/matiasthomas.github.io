@@ -19,7 +19,7 @@ Al contrario de la comunicación animal, la lengua humana tiene capacidad de abs
 La comprensión de un texto **siempre** requiere de la reposición de información por parte del lector.
 
 Todos los textos tienen lagunas informacionales. 
-Inferencia según [[Molinari Marotto 1996]]: ==la información que es activada durante la lectura sin ser explícitamente mencionada por el texto.== La inferencia se produce cuando el sujeto establece las conexiones mentales _necesarias y adecuadas_ para la interpretación del texto. 
+Inferencia según [[Molinari Marotto 1996]]: ==la información que es activada durante la lectura **sin ser explícitamente mencionada por el texto**.== La inferencia se produce cuando el sujeto establece las conexiones mentales _necesarias y adecuadas_ para la interpretación del texto. 
 
 Coherencia: resultado de los procesos inferenciales. 
 
@@ -27,16 +27,17 @@ Hay una separación entre inferencias obligatorias e inferencias optativas.
 # PowerPoint clase 2 y 3
 ## Competencia comunicativa
 > «El conocimiento de las convenciones lingüísticas y las convenciones comunicativas vinculadas a éstas que los hablantes deben poseer para iniciar y sostener el compromiso conversacional.»
-> \- Gumperz (1981)
+> \ - Gumperz (1981)
 
-```mermaid
+``` mermaid
 flowchart TB
-  A("Competencia lingüística") & B("Conocimiento acerca del uso de la lengua")
-  A & B --> C(Competencia comunicativa)
+A("Competencia
+lingüística") & B("Conocimiento acerca 
+del uso de la lengua")
+A & B --> C(Competencia comunicativa)
 ```
-
 > «Debemos dar cuenta del hecho que un niño normal adquiere un conocimiento de las oraciones no sólo gramaticales, **sino también como _pertinentes_**. Adquiere una competencia sobre cuándo hablar y cuándo no, y sobre qué hablar, con quién, cuándo, dónde y de qué manera. En suma, un niño llega a ser capaz de realizar un repertorio de actos de habla, de tomar la palabra en los eventos comunicativos y de evaluar las realizaciones de los otros.»
-> \- [[Hymes 1974]]
+> - [[Hymes 1974]]
 
 ## Diversidad lingüística: _lengua, dialecto, variedad_
 * Lengua: «una variedad que es **autónoma** junto con todas aquellas variedades que son **dependientes (heterónomas)** de ésta.» [[Chambers y Trudgill (1994). La dialectología]]
@@ -49,7 +50,7 @@ flowchart TB
 
 ## Comunidad de habla
 
-* ==La unidad social de análisis es el grupo, el colectivo social:== **la comunidad de habla**.
+* ==La unidad social de análisis es el grupo, el colectivo social: **la comunidad de habla**==.
 * Punto de partida de la investigación: la necesidad de rechazar la idea de que compartir la misma «lengua» implica un conocimiento también compartido del uso y significaciones en diversos contextos. _(?)_
 Definiciones:
 1) Bloomfield (1933): «una comunidad lingüística es un grupo de gente que se interrelaciona por medio de la lengua.»
@@ -62,13 +63,15 @@ Definiciones:
 8) Hymes (1986): «una comunidad de habla se define como una comunidad que comparte reglas para el manejo y la interpretación del habla y reglas para la interpretación de por lo menos una variedad lingüística.»
 ## Variación lingüística
 Cuando un mismo hablante alterna formas lingüísticas distintas para crear un mensaje equivalente, no hallamos en presencia del fenómeno llamado _variación_.
-==La variación cubre los distintos niveles del lenguaje: el fonológico, el morfológico, el sintáctico y el léxico.==
+==La _variación_ cubre los distintos niveles del lenguaje: el fonológico, el morfológico, el sintáctico y el léxico.==
 ==El análisis etnopragmático del discurso parte de la consideración de que las combinaciones sintácticas y su evidente regularidad son motivadas por principios cognitivos generales a los que el hablante apela para lograr relevancia y coherencia comunicativas.== [[Martínez (2009). Metodología de la investigación lingüística, el enfoque etnopragmático|Martínez (2009)]]
-
 ``` mermaid
 flowchart TB
-	A(Aspectos fundamentales de la Etnopragmática)
-	A --- E{ } -->B("Se trata de estudios de variación") & C("Se considera indispensable la frecuencia de uso de las formas lingüísticas")
+	A(Aspectos funamentales de la Etnopragmática)
+	A --- E( ) -->B("Se trata de estudios
+	de variación") & C("Se considera indispensable
+	la frecuencia de uso de las 
+	formas lingüísticas")
 ```
 Evaluación social de la variación lingüística:
 - Normativa _(subj. imp. con -ra o -se)_
@@ -86,7 +89,6 @@ Para la lingüística laboviana, no existen hablantes que solo sean usuarios de 
 2) Variable sociolingüística: en lingüística laboviana, variable que se correlaciona _significativamente con variables sociales_.
 ### Variables independientes:
 _(factores de incidencia en el uso variable)_
-
 ``` mermaid
 flowchart LR
 A(Variables) --> B(Sociales) & C(Lingüísticas)
@@ -95,7 +97,6 @@ Sexo
 Edad
 Nivel de instrucción")
 ```
-
 ### Presupuestos teóricos de la Etnopragmática:
 - Significado básico de las formas [[Diver, 1995]]
 - Equivalencia referencial [[García 1995]]

@@ -1,10 +1,9 @@
 import { i18n } from "../i18n"
 import { FullSlug, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
-import { getFontSpecificationName, googleFontHref } from "../util/theme"
+import { googleFontHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import satori, { SatoriOptions } from "satori"
-import { loadEmoji, getIconCode } from "../util/emoji"
 import fs from "fs"
 import sharp from "sharp"
 import { ImageOptions, SocialImageOptions, getSatoriFont, defaultImage } from "../util/og"
@@ -25,18 +24,7 @@ async function generateSocialImage(
   // JSX that will be used to generate satori svg
   const imageComponent = userOpts.imageStructure(cfg, userOpts, title, description, fonts, fileData)
 
-  const svg = await satori(imageComponent, {
-    width,
-    height,
-    fonts,
-    loadAdditionalAsset: async (languageCode: string, segment: string) => {
-      if (languageCode === "emoji") {
-        return `data:image/svg+xml;base64,${btoa(await loadEmoji(getIconCode(segment)))}`
-      }
-
-      return languageCode
-    },
-  })
+  const svg = await satori(imageComponent, { width, height, fonts })
 
   // Convert svg directly to webp (with additional compression)
   const compressed = await sharp(Buffer.from(svg)).webp({ quality: 40 }).toBuffer()
@@ -77,9 +65,7 @@ export default (() => {
 
     // Memoize google fonts
     if (!fontsPromise && cfg.generateSocialImages) {
-      const headerFont = getFontSpecificationName(cfg.theme.typography.header)
-      const bodyFont = getFontSpecificationName(cfg.theme.typography.body)
-      fontsPromise = getSatoriFont(headerFont, bodyFont)
+      fontsPromise = getSatoriFont(cfg.theme.typography.header, cfg.theme.typography.body)
     }
 
     const slug = fileData.filePath
@@ -112,7 +98,7 @@ export default (() => {
 
       if (fileName) {
         // Generate social image (happens async)
-        void generateSocialImage(
+        generateSocialImage(
           {
             title,
             description,
@@ -129,7 +115,7 @@ export default (() => {
       }
     }
 
-    const { css, js, additionalHead } = externalResources
+    const { css, js } = externalResources
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
@@ -179,7 +165,7 @@ export default (() => {
             <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
           </>
         )}
-        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin={"anonymous"} />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         {/* OG/Twitter meta tags */}
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
@@ -215,13 +201,6 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
-        {additionalHead.map((resource) => {
-          if (typeof resource === "function") {
-            return resource(fileData)
-          } else {
-            return resource
-          }
-        })}
       </head>
     )
   }

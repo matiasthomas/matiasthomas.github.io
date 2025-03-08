@@ -1,6 +1,7 @@
 ---
 date: 2024-06-01
 ---
-# Los romanos en el cine 
+[[Barthes]] [[ideología]]
+## Los romanos en el cine 
 
  todos los rostros sudan sin interrupción: hombres del pueblo, soldados, conspiradores, todos bañan sus rasgos austeros y crispados con un chorrear abundante (de vaselina). Y los primeros planos son tan frecuentes que, sin lugar a dudas, el sudor resulta un atributo intencional. Como el flequillo romano o la trenza nocturna, el sudor también es un signo. ¿De qué?: de la moralidad. Todo el mundo suda porque en todos algo se debate; estamos ubicados en el lugar de una virtud que se atormenta horriblemente, es decir en el lugar mismo de la tragedia; y el sudor se encarga de manifestarlo. El pueblo, traumatizado por la muerte de César y luego por los argumentos de Marco Antonio, el pueblo suda, combinando económicamente, en ese único signo, la intensidad de su emoción y el carácter grosero de su condición. Y los hombres virtuosos, Bruto, Casio, Casca, también traspiran sin cesar, testimoniando el enorme tormento fisiológico que en ellos opera la virtud que va a nacer de un crimen. Sudar es pensar (cosa que, evidentemente, descansa sobre el postulado, propio de un pueblo de hombres de negocios, de que pensar es una operación violenta, cataclísmica, cuyo signo más pequeño es el sudor). En todo el film, sólo un hombre no suda, permanece lánguido, imberbe, hermético: César. Evidentemente, César, _objeto_ del crimen, permanece seco, pues él no sabe, _no piensa_, debe conservar el aspecto nítido, solitario y limpio del cuerpo del delito.
