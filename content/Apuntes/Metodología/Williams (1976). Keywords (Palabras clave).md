@@ -35,8 +35,32 @@ Los términos adquieren una dimensión problemática cuando son empleadas en ár
 
 > Los problemas planteados por \[los significados de estas palabras] me parecían inextricablemente ligados a los problemas para cuya discusión se utilizaba. 
 
+## Problemas metodológicos
 
+> El trabajo que registra este libro se realizó en un área en que varias disciplinas convergen pero en general no se encuentran (p. 21).
 
+Esto presenta problemas de dos tipos:
+
+- **de información**, o de los límites de las fuentes disponibles;
+- **de teoría** (o de enfoque):
+	- actitud sacra frente las oraciones originales, tomar las raíces como significados preferenciales y restringir los desarrollos posteriores;
+	- problemas generales de filosofía lingüística, para los cuales el análisis formal es insuficiente y es necesario otro tipo de análisis. 
+
+==La lengua no es un mero reflejo de los procesos sociohistóricos, sino que hay cambios sociohistóricos que se dan dentro de la lengua== (p.25) <- Tesis central del libro.
+
+> Ninguna palabra conserva su autonomía.
+
+La lengua es un «proceso social», y sus elementos no conservan su autonomía, pero su significación tampoco puede «disolverse por completo en el contexto».
+
+## Apreciaciones finales
+
+> No comparto el optimismo \[...] de ese tipo popular de semántica superviviente de entreguerras que suponía que el esclarecimiento de palabras difíciles sería una ayuda en la solución de disputas. (p. 27)
+
+ > El aporte que realmente puede hacerse no consiste en la *resolución*, sino tal vez \[...] en *un margen adicional de consciencia*. (p. 28)
+
+El vocabulario sobre el que trata el libro y sus significados no deben ser vistos ni como una *tradición* a aprender, ni como un *consenso* a aceptar, ni como una *autoridad natural*, sino como una herramienta a utilizar pero que todavía puede cambiar y ser modificado. 
+
+> ==No es un diccionario sino un vocabulario.==
 
 # ARTE \[*ART*]
 
