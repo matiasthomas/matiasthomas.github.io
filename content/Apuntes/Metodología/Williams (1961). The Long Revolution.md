@@ -1,3 +1,6 @@
+---
+date: 2025-03-11
+---
 # Introduction
 
 > **It seems to me that we are living through a long revolution**, which our best descriptions only in part interpret. It is a genuine revolution, transfroming men and institutions; continually extended and deepened by the actions of millions, continually and variously opposed by explicit reaction and by the pressure of habitual forms and ideas. Yet it is a difficult revolution to define, and its uneven action is taking place over so long a period that it is almost impossible not to get lost in its exceptionally complicated process. 

@@ -1,3 +1,6 @@
+---
+date: 2025-03-07
+---
 # 1) Historia clásica, historia nueva, historia de las ideas
 
 > Desde hace décadas, la atención de los historiadores se ha fijado preferentemente en los largos períodos.

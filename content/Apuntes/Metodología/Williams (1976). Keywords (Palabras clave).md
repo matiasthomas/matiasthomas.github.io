@@ -1,3 +1,6 @@
+---
+date: 2025-03-11
+---
 # Introducción
 
 ## Desde el fin de la guerra hasta *Culture and Society* (pp. 15-18)
