@@ -1,3 +1,7 @@
+---
+date: 2025-03-12
+---
+
 # FRAGMENTO
 
 **Cultura escrita**: el fragmento remite a la totalidad (el libro)

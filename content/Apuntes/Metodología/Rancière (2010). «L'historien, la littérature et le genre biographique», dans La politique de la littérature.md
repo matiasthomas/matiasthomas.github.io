@@ -1,3 +1,7 @@
+---
+date: 2025-03-12
+---
+
 **« La biographie est de retour dans la science historique. »**
 
 Hipótesis: la biografía como género no es un «añadido» a la ciencia histórica, sino «el corazón mismo de su racionalidad» (-> palabra clave)

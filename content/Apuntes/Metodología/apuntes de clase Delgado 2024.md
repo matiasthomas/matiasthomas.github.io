@@ -1,3 +1,8 @@
+---
+date: 2024-11-15
+---
+
+
 # viernes 08.11 (anteúltima clase)
 
 ## Rancière
