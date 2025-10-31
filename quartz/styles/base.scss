@@ -11,7 +11,8 @@ html {
   width: 100vw;
 }
 
-body {
+body,
+section {
   margin: 0;
   box-sizing: border-box;
   background-color: var(--light);
@@ -39,33 +40,28 @@ li,
 ol,
 ul,
 .katex,
-.math,
-.typst-doc,
-.typst-doc * {
+.math {
   color: var(--darkgray);
   fill: var(--darkgray);
-  overflow-wrap: break-word;
-  text-wrap: pretty;
+  hyphens: auto;
+}
+
+p,
+ul,
+text,
+a,
+li,
+ol,
+ul,
+.katex,
+.math {
+  overflow-wrap: anywhere;
+  /* tr and td removed from list of selectors for overflow-wrap, allowing them to use default 'normal' property value */
 }
 
 .math {
   &.math-display {
     text-align: center;
-  }
-}
-
-article {
-  > mjx-container.MathJax,
-  blockquote > div > mjx-container.MathJax {
-    display: flex;
-    > svg {
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-  blockquote > div > mjx-container.MathJax > svg {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
   }
 }
 
@@ -80,7 +76,7 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary);
+    color: var(--tertiary) !important;
   }
 
   &.internal {
@@ -89,15 +85,6 @@ a {
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
-
-    &.broken {
-      color: var(--secondary);
-      opacity: 0.5;
-      transition: opacity 0.2s ease;
-      &:hover {
-        opacity: 0.8;
-      }
-    }
 
     &:has(> img) {
       background-color: transparent;
@@ -121,32 +108,16 @@ a {
   }
 }
 
-.flex-component {
-  display: flex;
-}
-
 .desktop-only {
   display: initial;
-  &.flex-component {
-    display: flex;
-  }
   @media all and ($mobile) {
-    &.flex-component {
-      display: none;
-    }
     display: none;
   }
 }
 
 .mobile-only {
   display: none;
-  &.flex-component {
-    display: none;
-  }
   @media all and ($mobile) {
-    &.flex-component {
-      display: flex;
-    }
     display: initial;
   }
 }
@@ -211,7 +182,7 @@ a {
     }
 
     & .sidebar {
-      gap: 1.2rem;
+      gap: 2rem;
       top: 0;
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;
@@ -252,7 +223,6 @@ a {
         padding: 0;
         & > * {
           flex: 1;
-          max-height: 24rem;
         }
         & > .toc {
           display: none;
@@ -380,10 +350,6 @@ h6 {
 
   &[id]:hover > a {
     opacity: 1;
-  }
-
-  &:not([id]) > a[role="anchor"] {
-    display: none;
   }
 }
 
@@ -572,33 +538,39 @@ video {
 }
 
 .spacer {
-  flex: 2 1 auto;
+  flex: 1 1 auto;
 }
 
 div:has(> .overflow) {
+  display: flex;
+  overflow-y: auto;
   max-height: 100%;
-  overflow-y: hidden;
 }
 
 ul.overflow,
 ol.overflow {
   max-height: 100%;
   overflow-y: auto;
-  width: 100%;
-  margin-bottom: 0;
 
   // clearfix
   content: "";
   clear: both;
 
-  & > li.overflow-end {
-    height: 0.5rem;
-    margin: 0;
+  & > li:last-of-type {
+    margin-bottom: 30px;
   }
-
-  &.gradient-active {
-    mask-image: linear-gradient(to bottom, black calc(100% - 50px), transparent 100%);
-  }
+  /*&:after {
+    pointer-events: none;
+    content: "";
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+    background: linear-gradient(transparent 0px, var(--light));
+  }*/
 }
 
 .transclude {
@@ -608,7 +580,6 @@ ol.overflow {
 }
 
 .katex-display {
-  display: initial;
   overflow-x: auto;
   overflow-y: hidden;
 }

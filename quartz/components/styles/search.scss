@@ -8,23 +8,24 @@
   }
 
   & > .search-button {
-    background-color: transparent;
-    border: 1px var(--lightgray) solid;
+    background-color: var(--lightgray);
+    border: none;
     border-radius: 4px;
     font-family: inherit;
     font-size: inherit;
     height: 2rem;
-    padding: 0 1rem 0 0;
+    padding: 0;
     display: flex;
     align-items: center;
     text-align: inherit;
     cursor: pointer;
     white-space: nowrap;
     width: 100%;
+    justify-content: space-between;
 
     & > p {
       display: inline;
-      color: var(--gray);
+      padding: 0 1rem;
     }
 
     & svg {
@@ -35,13 +36,13 @@
 
       .search-path {
         stroke: var(--darkgray);
-        stroke-width: 1.5px;
+        stroke-width: 2px;
         transition: stroke 0.5s ease;
       }
     }
   }
 
-  & > .search-container {
+  & > #search-container {
     position: fixed;
     contain: layout;
     z-index: 999;
@@ -57,7 +58,7 @@
       display: inline-block;
     }
 
-    & > .search-space {
+    & > #search-space {
       width: 65%;
       margin-top: 12vh;
       margin-left: auto;
@@ -90,7 +91,7 @@
         }
       }
 
-      & > .search-layout {
+      & > #search-layout {
         display: none;
         flex-direction: row;
         border: 1px solid var(--lightgray);
@@ -101,7 +102,7 @@
           display: flex;
         }
 
-        &[data-preview] > .results-container {
+        &[data-preview] > #results-container {
           flex: 0 0 min(30%, 450px);
         }
 
@@ -132,13 +133,11 @@
         }
 
         @media all and ($mobile) {
-          flex-direction: column;
-
-          & > .preview-container {
+          & > #preview-container {
             display: none !important;
           }
 
-          &[data-preview] > .results-container {
+          &[data-preview] > #results-container {
             width: 100%;
             height: auto;
             flex: 0 0 100%;
@@ -151,7 +150,7 @@
           scroll-margin-top: 2rem;
         }
 
-        & > .preview-container {
+        & > #preview-container {
           flex-grow: 1;
           display: block;
           overflow: hidden;
@@ -172,7 +171,7 @@
           }
         }
 
-        & > .results-container {
+        & > #results-container {
           overflow-y: auto;
 
           & .result-card {
@@ -203,12 +202,6 @@
 
             & > h3 {
               margin: 0;
-            }
-
-            @media all and not ($mobile) {
-              & > p.card-description {
-                display: none;
-              }
             }
 
             & > ul.tags {

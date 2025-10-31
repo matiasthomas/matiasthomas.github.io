@@ -29,9 +29,6 @@ export default {
       lightMode: "Trzyb jasny",
       darkMode: "Tryb ciemny",
     },
-    readerMode: {
-      title: "Tryb czytania",
-    },
     explorer: {
       title: "Przeglądaj",
     },
@@ -51,7 +48,7 @@ export default {
     },
     search: {
       title: "Szukaj",
-      searchBarPlaceholder: "Wpisz frazę wyszukiwania",
+      searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
       title: "Spis treści",

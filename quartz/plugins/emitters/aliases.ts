@@ -31,6 +31,8 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
         graph.addEdge(file.data.filePath!, joinSegments(argv.output, slug + ".html") as FilePath)
       }
     }
+
+    return graph
   },
   async emit(ctx, content, _resources): Promise<FilePath[]> {
     const { argv } = ctx
@@ -74,5 +76,6 @@ export const AliasRedirects: QuartzEmitterPlugin = () => ({
         fps.push(fp)
       }
     }
+    return fps
   },
 })

@@ -1,6 +1,4 @@
 import { QuartzTransformerPlugin } from "../types"
-import rehypeRaw from "rehype-raw"
-import { PluggableList } from "unified"
 
 export interface Options {
   /** Replace {{ relref }} with quartz wikilinks []() */
@@ -56,7 +54,7 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> 
     textTransform(_ctx, src) {
       if (opts.wikilinks) {
         src = src.toString()
-        src = src.replaceAll(relrefRegex, (_value, ...capture) => {
+        src = src.replaceAll(relrefRegex, (value, ...capture) => {
           const [text, link] = capture
           return `[${text}](${link})`
         })
@@ -64,7 +62,7 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> 
 
       if (opts.removePredefinedAnchor) {
         src = src.toString()
-        src = src.replaceAll(predefinedHeadingIdRegex, (_value, ...capture) => {
+        src = src.replaceAll(predefinedHeadingIdRegex, (value, ...capture) => {
           const [headingText] = capture
           return headingText
         })
@@ -72,7 +70,7 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> 
 
       if (opts.removeHugoShortcode) {
         src = src.toString()
-        src = src.replaceAll(hugoShortcodeRegex, (_value, ...capture) => {
+        src = src.replaceAll(hugoShortcodeRegex, (value, ...capture) => {
           const [scContent] = capture
           return scContent
         })
@@ -80,7 +78,7 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> 
 
       if (opts.replaceFigureWithMdImg) {
         src = src.toString()
-        src = src.replaceAll(figureTagRegex, (_value, ...capture) => {
+        src = src.replaceAll(figureTagRegex, (value, ...capture) => {
           const [src] = capture
           return `![](${src})`
         })
@@ -88,11 +86,11 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> 
 
       if (opts.replaceOrgLatex) {
         src = src.toString()
-        src = src.replaceAll(inlineLatexRegex, (_value, ...capture) => {
+        src = src.replaceAll(inlineLatexRegex, (value, ...capture) => {
           const [eqn] = capture
           return `$${eqn}$`
         })
-        src = src.replaceAll(blockLatexRegex, (_value, ...capture) => {
+        src = src.replaceAll(blockLatexRegex, (value, ...capture) => {
           const [eqn] = capture
           return `$$${eqn}$$`
         })
@@ -103,10 +101,6 @@ export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> 
         })
       }
       return src
-    },
-    htmlPlugins() {
-      const plugins: PluggableList = [rehypeRaw]
-      return plugins
     },
   }
 }

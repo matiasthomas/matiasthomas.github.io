@@ -5,7 +5,6 @@ export default {
     title: "بدون عنوان",
     description: "توضیح خاصی اضافه نشده است",
   },
-  direction: "rtl" as const,
   components: {
     callout: {
       note: "یادداشت",
@@ -29,9 +28,6 @@ export default {
     themeToggle: {
       lightMode: "حالت روشن",
       darkMode: "حالت تاریک",
-    },
-    readerMode: {
-      title: "حالت خواندن",
     },
     explorer: {
       title: "مطالب",

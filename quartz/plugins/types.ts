@@ -4,7 +4,7 @@ import { ProcessedContent } from "./vfile"
 import { QuartzComponent } from "../components/types"
 import { FilePath } from "../util/path"
 import { BuildCtx } from "../util/ctx"
-import { VFile } from "vfile"
+import DepGraph from "../depgraph"
 
 export interface PluginTypes {
   transformers: QuartzTransformerPluginInstance[]
@@ -30,12 +30,6 @@ export type QuartzFilterPlugin<Options extends OptionType = undefined> = (
 export type QuartzFilterPluginInstance = {
   name: string
   shouldPublish(ctx: BuildCtx, content: ProcessedContent): boolean
-}
-
-export type ChangeEvent = {
-  type: "add" | "change" | "delete"
-  path: FilePath
-  file?: VFile
 }
 
 export type QuartzEmitterPlugin<Options extends OptionType = undefined> = (
