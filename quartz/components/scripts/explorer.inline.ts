@@ -1,4 +1,6 @@
-import { FolderState } from "../ExplorerNode"
+import { FileTrieNode } from "../../util/fileTrie"
+import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { ContentDetails } from "../../plugins/emitters/contentIndex"
 
 type MaybeHTMLElement = HTMLElement | undefined
 let currentExplorerState: FolderState[]
@@ -19,7 +21,7 @@ function toggleExplorer(this: HTMLElement) {
   this.classList.toggle("collapsed")
   this.setAttribute(
     "aria-expanded",
-    this.getAttribute("aria-expanded") === "true" ? "false" : "true",
+    nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
   )
   const content = this.nextElementSibling as MaybeHTMLElement
   if (!content) return
@@ -35,8 +37,10 @@ function toggleFolder(evt: MouseEvent) {
   const isSvg = target.nodeName === "svg"
   const childFolderContainer = (
     isSvg
-      ? target.parentElement?.nextSibling
-      : target.parentElement?.parentElement?.nextElementSibling
+      ? // svg -> div.folder-container
+        target.parentElement
+      : // button.folder-button -> div -> div.folder-container
+        target.parentElement?.parentElement
   ) as MaybeHTMLElement
   const currentFolderParent = (
     isSvg ? target.nextElementSibling : target.parentElement
@@ -106,30 +110,10 @@ document.addEventListener("nav", () => {
   setupExplorer()
   observer.disconnect()
 
-  // select pseudo element at end of list
-  const lastItem = document.getElementById("explorer-end")
-  if (lastItem) {
-    observer.observe(lastItem)
+    mobileExplorer.classList.remove("hide-until-loaded")
   }
 })
 
-/**
- * Toggles the state of a given folder
- * @param folderElement <div class="folder-outer"> Element of folder (parent)
- * @param collapsed if folder should be set to collapsed or not
- */
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
   return collapsed ? folderElement.classList.remove("open") : folderElement.classList.add("open")
-}
-
-/**
- * Toggles visibility of a folder
- * @param array array of FolderState (`fileTree`, either get from local storage or data attribute)
- * @param path path to folder (e.g. 'advanced/more/more2')
- */
-function toggleCollapsedByPath(array: FolderState[], path: string) {
-  const entry = array.find((item) => item.path === path)
-  if (entry) {
-    entry.collapsed = !entry.collapsed
-  }
 }

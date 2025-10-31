@@ -38,33 +38,9 @@ button#explorer {
     display: inline-block;
     margin: 0;
   }
-
-  & .fold {
-    margin-left: 0.5rem;
-    transition: transform 0.3s ease;
-    opacity: 0.8;
-  }
-
-  &.collapsed .fold {
-    transform: rotateZ(-90deg);
-  }
 }
 
-.folder-outer {
-  display: grid;
-  grid-template-rows: 0fr;
-  transition: grid-template-rows 0.3s ease-in-out;
-}
-
-.folder-outer.open {
-  grid-template-rows: 1fr;
-}
-
-.folder-outer > ul {
-  overflow: hidden;
-}
-
-#explorer-content {
+.explorer-content {
   list-style: none;
   overflow: hidden;
   overflow-y: auto;
@@ -85,7 +61,7 @@ button#explorer {
 
   & ul {
     list-style: none;
-    margin: 0.08rem 0;
+    margin: 0;
     padding: 0;
     transition:
       max-height 0.35s ease,
@@ -96,18 +72,27 @@ button#explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+
+      &.active {
+        opacity: 1;
+        color: var(--tertiary);
+      }
     }
   }
   > #explorer-ul {
     max-height: none;
   }
-}
 
-svg {
-  pointer-events: all;
+  .folder-outer.open {
+    visibility: visible;
+    grid-template-rows: 1fr;
+  }
 
-  & > polyline {
-    pointer-events: none;
+  .folder-outer > ul {
+    overflow: hidden;
+    margin-left: 6px;
+    padding-left: 0.8rem;
+    border-left: 1px solid var(--lightgray);
   }
 }
 
@@ -160,6 +145,7 @@ svg {
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
+  flex-shrink: 0;
 }
 
 li:has(> .folder-outer:not(.open)) > .folder-container > svg {
