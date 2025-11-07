@@ -1,6 +1,6 @@
-El martes voy al trabajo sólo para descubrir para descubrir que la oficina ha desaparecido. 
+El martes arribo al trabajo sólo para descubrir que la oficina ha desaparecido. 
 
-La calle está casi igual, pero el número al que quería llegar, que hasta el día anterior sabía ser un edificio de cuatro plantas entre dos torres de departamentos, con un kiosco debajo, ya no está. En su lugar, vacío. 
+La calle está casi igual, pero el número al que quería llegar, que hasta el día anterior sabía ser un edificio de cuatro plantas entre dos torres bajas de departamentos, con un kiosco debajo, ya no está. En su lugar, vacío. 
 
 —Fue recién —me dice un vecino—. Hará media hora, apenas terminaron de llegar los empleados. Creo que estaban esperando que estuvieran todos adentro. 
 
@@ -18,11 +18,11 @@ Me quedo parado en silencio a su lado, mirando el hueco de la cuadra sin saber s
 
 El café es pequeño, y la única persona en él es una camarera flaca, con un delantal blanco. Nos sentamos adentro: si bien afuera hay una mesita y sillas de plástico, en la calle no hay nada que ver. 
 
-Mientras esperamos nuestra orden, G mira a un punto indeterminado en la barra, perpendicular a nuestra mesa, y yo lo contemplo con disimulo. La norma social dictaría que alguno de los dos rompa el silencio, que muestre interés en el otro. Pero yo temo, por un lado, que él no quiera hablarme ni de él ni de su familia —la oficina ya no es un tema posible– y, por otro, que no haya nada que pueda decirme que yo no me imagine ya vagamente. Y me lo imagino porque yo no quiero hablar de mí, ni de mi familia, ni..
+Mientras esperamos nuestra orden, G mira a un punto indeterminado en la barra, perpendicular a nuestra mesa, y yo lo contemplo con disimulo. La norma social dictaría que alguno de los dos rompa el silencio, que muestre interés en el otro. Pero yo temo, por un lado, que él no quiera hablarme ni de él ni de su familia —la oficina ya no es un tema posible– y, por otro, que no haya nada que pueda decirme que yo no me imagine ya, al menos vagamente vagamente. Y me lo imagino porque yo no quiero hablar de mí, ni de mi familia, ni..
 
 El desayuno llega —dos rebanadas de pan tostado con el café negro—, y lo consumimos cabizbajos. No hay azúcar. 
 
-Del otro lado de la ventana, por la calle aparecen tres niñlos, caminando por el asfalto resquebrajado y murmurando entre sí. Tienen siete u ocho años, no más. Sus pieles brillan por el sol; uno de ellos lleva el torso desnudo. Otro, el que está más cerca del café, no tiene manos. Levanta el muñoncito izquierdo para rascarse la sien rapada, y una cicatriz blanca destella en mis ojos por un instante, hasta que los tres desaparecen atrás de la pared del local. 
+Del otro lado de la ventana, por la calle aparecen tres niños, caminando por el asfalto resquebrajado y murmurando entre sí. Tienen siete u ocho años, no más. Sus pieles brillan por el sol; uno de ellos lleva el torso desnudo. Otro, el que está más cerca del café, no tiene manos. Levanta el muñoncito izquierdo para rascarse la sien rapada, y una cicatriz blanca destella en mis ojos por un instante, hasta que los tres desaparecen atrás de la pared del local. 
 
 Mis ojos se quedan clavados ahí. 
 
@@ -40,8 +40,8 @@ La norma social dictaría demostrar un mínimo de interés. Vuelvo la mirada al 
 
 —No sé. —respondo. 
 
-La norma dictaría… pero sólo siento la certeza más absoluta de que ésta es la última vez que volveré a ver a G, y no hay ningún interés en mí de quedar bien con él.
+La norma dictaría… pero adentro mío sólo queda la certeza más absoluta de que ésta es la última vez que volveré a ver a G, y no siento ninguna inclinación a quedar bien con él.
 
 —No sé.
 
-No logro recordar esos tres rostros fugaces. Pero no puedo dejar de ver esa blanquísima cicatriz. 
+No logro recordar esos tres rostros fugaces, pero no puedo dejar de ver esa blanquísima cicatriz. 
